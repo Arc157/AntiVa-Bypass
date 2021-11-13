@@ -13,4 +13,4 @@ libil2cpp.so, 0x21FF734, 00 F0 20 E3, //Switcher.专万专丗七丁丄万丟 : M
 
 # Info
 Ida is required to update to the newest version
-Must use credit if you're going to use the offsets
+. Must use credit if you're going to use the offsets
